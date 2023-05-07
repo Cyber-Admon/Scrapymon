@@ -1,4 +1,3 @@
-# Scrapymon
 # Welcome to Scrapymon!
 
  **Scrapymon**
@@ -18,3 +17,5 @@ B --> A
 
 
 ```
+**Copyright**
+**&copy; Cyber_Admon**
